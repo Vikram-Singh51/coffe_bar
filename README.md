@@ -16,3 +16,12 @@ due to padding reset, the numbers are actually off to the left of the page (in o
 If you guys have any suggestion for me . You are most welcome and I will feel privileged. 
 
 Thankyou for visiting my Github.😊
+
+Desktop Preview: 
+
+![image](https://github.com/Vikram-Singh51/coffe_bar/blob/e2205e67cb0d00f8a130f8630c98fd3938fffbfa/images/desktop.jpg)
+
+Mobile Preview
+
+![image](https://github.com/Vikram-Singh51/coffe_bar/blob/e2205e67cb0d00f8a130f8630c98fd3938fffbfa/images/mobile2.jpg)
+![image](https://github.com/Vikram-Singh51/coffe_bar/blob/e2205e67cb0d00f8a130f8630c98fd3938fffbfa/images/mobile%201.jpg)
