@@ -7,6 +7,7 @@
 body{
 
 }
+/* ======== Nav Bar ============= */
 .nav_1{
       display: flex;
       justify-content: center;
@@ -27,6 +28,8 @@ body{
 .nav_2{
       border-bottom: 1px solid grey;
 }
+
+/* =========Main Section ============= */
 main{
       width: 100%;
       display: flex;
@@ -34,7 +37,6 @@ main{
 }
 .left{
       width: 20%;
-      /* height: 100vh; */
       background-color: #f0f0f0; 
       padding-left: 1rem;  
 
@@ -48,6 +50,7 @@ main{
       list-style: none;
       border-bottom: 0.5px solid gray;
 }
+/* main right section */
 .right{
     padding: 1.5rem;
     width: 80%;
@@ -94,6 +97,7 @@ footer a{
       color: white;
 }
 
+/* ==========Media Query ofr Mobile devices */
 @media (max-width: 500px){
       main{
             display: flex;
